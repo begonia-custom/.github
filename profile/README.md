@@ -1,12 +1,6 @@
 ### Repo-Cards [Begonia-Lab]
 ![GitHub Views](https://komarev.com/ghpvc/?username=Begonia-Lab&color=FAC151)
 
-<a href="https://github.com/Begonia-Lab/android_device_edmi_begonia"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Begonia-Lab&repo=android_device_redmi_begonia&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false" alt="device_begonia"></a>
-<a href="https://github.com/Begonia-Lab/android_vendor_redmi_begonia"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Begonia-Lab&repo=android_vendor_redmi_begonia&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false" alt="android_vendor_redmi_begonia"></a>
-<a href="https://github.com/Begonia-Lab/android_kernel_xiaomi_mt6785"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Begonia-Lab&repo=android_kernel_xiaomi_mt6785&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false" alt="kernel_mt6785"></a>
-<a href="https://github.com/Begonia-Lab/vendor_dirac"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Begonia-Lab&repo=vendor_dirac&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false" alt="vendor_dirac"></a>
-<a href="https://github.com/Begonia-Lab/vendor_v4afx"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Begonia-Lab&repo=vendor_v4afx&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=false&show_icons=false" alt="vendor_v4afx"></a>
-
 ### Sourceforge 🚀
 <hr>
 <p align="left"
